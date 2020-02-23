@@ -1,10 +1,12 @@
 # Sentiment Analysis
 The task is to identify sentiment analysis of amazon reviews.
+
 This is an implementation of Naive Bayes classifier after pre-processing the reviews to clean and label them.
 
 ## Dataset
 I used open source data set of amazon reviews for this purpose.
-Link: 
+
+Link: https://www.cs.jhu.edu/mdredze/datasets/sentiment/unprocessed.tar.gz
 
 ## Requirements
 1. Libraries required for running the python script:
