@@ -2,6 +2,7 @@
 The task is to identify sentiment analysis of amazon reviews and twitter tweets.
 
 Amazon reviews: Implementation of Naive Bayes classifier after pre-processing the reviews to clean and label them.
+
 Twitter Tweets: Implementation of Logistic Regression, Naive Bayes and Decision Trees classifiers after pre-processing the tweets. Also, used GloVe for word embeddings and ELMO to fetch contextual embeddings.
 
 ## Dataset
@@ -20,6 +21,7 @@ For tweets, scraped a small dataset of tweets off the website.
 
 ## Run the script
 To execute Amazon reviews sentiment analysis -  `python naive_bayes_reviews.py`
+
 To execute Tweets sentiment analysis-  `python log_res.py`, `python log_res_word_embed.py` and `python better_models.py`
 
 ## General notes
